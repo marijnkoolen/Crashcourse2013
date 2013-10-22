@@ -5,9 +5,9 @@ start thinking about new research questions that could be answered by analysing 
  
 Reading material: Ben Fry - [The Seven Stages of Visualizing Data](https://docs.google.com/file/d/0Bw6gfqK2v6PjbXlwcDJFcXBYT3c/edit?usp=sharing)
 
-Slides
+Slides - [From Object to Data](https://docs.google.com/file/d/0Bw6gfqK2v6PjeWNhN1FLaTRzaXM/edit?usp=sharing)
 
-Tools
+Tools - [Crash Course workflow app](http://crashflow.codingthehumanities.com)
 
 APIs
 + Europeana (European portal for online collections of Galleries, Libraries, Archives and Museums)
