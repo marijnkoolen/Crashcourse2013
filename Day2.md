@@ -9,6 +9,7 @@ Epistularum Neerlandicarum.
 
 Slides
 + [Gephi demonstration](https://docs.google.com/file/d/0Bw6gfqK2v6PjSklDOUE1Z2prVTQ/edit?usp=sharing)
++ [Atlas URLs](http://mapserver.sara.nl/cursus/)
 
 Tools
   + [Gephi](https://gephi.org/)
@@ -18,4 +19,5 @@ Data sets
 
 + [SampleEdgesCENLetters.csv](https://docs.google.com/file/d/0Bw6gfqK2v6PjQVgyUWZlMm42QkE/edit?usp=sharing)
 + [SampleNodesCENLetters.csv](https://docs.google.com/file/d/0Bw6gfqK2v6PjY2stNE1mcEFZZk0/edit?usp=sharing)
+
 
