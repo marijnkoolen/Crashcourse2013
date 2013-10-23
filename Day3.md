@@ -5,6 +5,6 @@ Today, we continue with our workflow. First, we prepare a raw data so that we ca
 Slides - [Preparing Data](https://docs.google.com/file/d/0Bw6gfqK2v6PjejF0eVZCZ3Jqc1k/edit?usp=sharing)
 
 Tools
-  + [DataWrangler](http://vis.stanford.edu/wrangler/)
   + [OpenRefine/Google Refine](http://openrefine.org)
+  + [DataWrangler](http://vis.stanford.edu/wrangler/)
 
