@@ -20,6 +20,7 @@ Assignments
 
 Reading material
 + [Further reading Textual Data](https://drive.google.com/file/d/0Bw6gfqK2v6PjQ1FDejhQVnVuSE0/edit?usp=sharing)
+
 Data sets
 + Dutch literature (link to the literary texts removed for copyright reasons)
 + [Reg. Exp. corpora](https://drive.google.com/file/d/0Bw6gfqK2v6PjaUhyLWZ0eFVjRnM/edit?usp=sharing)
