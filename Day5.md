@@ -3,7 +3,7 @@
 We finish with the last stages of our workflow. Focusing on presenting and interacting with the data through visualisation. There are many ways to visualise information, but only some of them will present the data such that it provides an answer to our research questions. We experiment with Many Eyes, which is a web-based visualization tool that offers a broad range of visualisations to select from, to optimally present the story we want to tell with the data.
 
 Slides
-+ [Data Visualisation]()https://drive.google.com/file/d/0Bw6gfqK2v6PjaGZlcXQ2SXd1dTQ/edit?usp=sharing
++ [Data Visualisation](https://drive.google.com/file/d/0Bw6gfqK2v6PjaGZlcXQ2SXd1dTQ/edit?usp=sharing)
 
 Tools
 + [Many Eyes](http://www-958.ibm.com/software/analytics/labs/manyeyes/) (please use Firefox for this application)
