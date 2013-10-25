@@ -5,10 +5,9 @@ We finish with the last stages of our workflow. Focusing on presenting and inter
 Slides
 
 Tools
-+ [Many Eyes](http://www-958.ibm.com/software/analytics/manyeyes/)
++ [Many Eyes](http://www-958.ibm.com/software/analytics/labs/manyeyes/)
 + [VOSviewer](http://www.vosviewer.com)
 
 Data sets
 + [Venus full](https://drive.google.com/file/d/0Bw6gfqK2v6PjU240a3NUSU1CSW8/edit?usp=sharing)
-+ [Venus - region, period](https://drive.google.com/file/d/0Bw6gfqK2v6PjUnJuei16ME8yVkE/edit?usp=sharing)
 
