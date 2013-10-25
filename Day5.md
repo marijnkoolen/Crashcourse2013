@@ -4,6 +4,7 @@ We finish with the last stages of our workflow. Focusing on presenting and inter
 
 Slides
 + [Data Visualisation](https://drive.google.com/file/d/0Bw6gfqK2v6PjaGZlcXQ2SXd1dTQ/edit?usp=sharing)
++ [Discussion](https://drive.google.com/file/d/0Bw6gfqK2v6PjTHVzTFcycG11YU0/edit?usp=sharing)
 
 Tools
 + [Many Eyes](http://www-958.ibm.com/software/analytics/labs/manyeyes/) (please use Firefox for this application)
@@ -11,4 +12,8 @@ Tools
 
 Data sets
 + [Venus full](https://drive.google.com/file/d/0Bw6gfqK2v6PjU240a3NUSU1CSW8/edit?usp=sharing)
++ [Topical catalogues on Internet Archive](http://archive.org/search.php?query=K.%20Bender%20Venus%20AND%20mediatype%3Atexts)
+
+Reading material
++ [Iconography in Art History](http://kbender.blogspot.nl/2013/02/statistics-in-art-history-i.html?view=sidebar)
 
