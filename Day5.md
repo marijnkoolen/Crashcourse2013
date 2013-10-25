@@ -5,7 +5,7 @@ We finish with the last stages of our workflow. Focusing on presenting and inter
 Slides
 
 Tools
-+ [Many Eyes](http://www-958.ibm.com/software/analytics/labs/manyeyes/)
++ [Many Eyes](http://www-958.ibm.com/software/analytics/labs/manyeyes/) (please use Firefox for this application)
 + [VOSviewer](http://www.vosviewer.com)
 
 Data sets
